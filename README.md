@@ -17,4 +17,6 @@ Find-Module -Name _Find-LicenseName_
 
 Install-Module -Name Find-LicenseName
 
-Please refer the examples.
+Please refer few examples @ https://github.com/ergautamsharma/Find-LicenseName/tree/main/Examples.
+
+Feedback and Issues should be reported on GitHub (https://github.com/ergautamsharma/Find-LicenseName/issues)
