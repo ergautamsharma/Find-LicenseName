@@ -20,3 +20,5 @@ Install-Module -Name Find-LicenseName
 Please refer few examples @ https://github.com/ergautamsharma/Find-LicenseName/tree/main/Examples.
 
 Feedback and Issues should be reported on GitHub (https://github.com/ergautamsharma/Find-LicenseName/issues)
+
+Please visit [Find-LicenseName Module explain with an example - TechEvangs.com](https://techevangs.com/script/ps-module/easy-way-to-find-the-microsoft-subscription-office-365-license-name-with-powershell/ "Find-LicenseName Module - TechEvangs.com")
